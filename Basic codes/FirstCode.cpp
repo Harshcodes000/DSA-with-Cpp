@@ -5,5 +5,5 @@ int main(){
     return 0;
 }
 //Compile : g++ -o FirstCode.cpp
-//Run : FirstCode.exe
+//Run : .\FirstCode
 //Output: Welcome to this C++ series
