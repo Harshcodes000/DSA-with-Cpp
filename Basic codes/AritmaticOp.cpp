@@ -23,6 +23,5 @@ int main() {
     return 0;
 }
 
-// Compile : g++ AritmaticOp.cpp
-// Run     : ./a.out
+
 
